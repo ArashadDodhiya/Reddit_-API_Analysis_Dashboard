@@ -1,0 +1,9 @@
+streamlit
+praw
+textblob
+vaderSentiment
+pandas
+matplotlib
+plotly
+wordcloud
+geopandas
